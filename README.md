@@ -16,6 +16,8 @@ npm install
 npm run dev
 ```
 
+Once the project is setup, go to [http://localhost:8080](http://localhost:8080) to see the Twitter Clone.
+
 ## Notes
 
 Since I can assume the users have a modern browser, I've replaced jQuery AJAX call
